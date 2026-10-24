@@ -1,0 +1,4 @@
+# Build artifacts
+build/
+*.shell-extension.zip
+*.zip

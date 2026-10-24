@@ -1,0 +1,14 @@
+{
+  "uuid": "app-title-extension@matheus-inacio.com",
+  "name": "TopTitle",
+  "description": "Displays the title and application icon of the currently focused window in the GNOME top bar, using a lightweight, resource-efficient implementation designed to minimize CPU and memory usage.",
+  "shell-version": [
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51"
+  ],
+  "url": "https://github.com/matheus-inacio/app-title-extension"
+}

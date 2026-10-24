@@ -1,0 +1,9 @@
+.app-title-box {
+  spacing: 6px;
+  padding-right: 6px;
+}
+
+.app-title-icon {
+  -st-icon-style: symbolic;
+  padding-left: 0;
+}
